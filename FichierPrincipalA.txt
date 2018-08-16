@@ -1,1 +1,13 @@
 Contenu du fichier principal A :)
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+Cras nisl est, auctor ut semper sit amet, porttitor et tellus. 
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+Cras feugiat nisl eu magna faucibus tristique. 
+Proin at scelerisque velit, tempor dapibus augue. 
+Aenean condimentum purus vel pretium scelerisque. 
+Cras efficitur nibh risus, a sollicitudin magna bibendum vel. 
+Integer sed neque non metus efficitur laoreet. 
+In convallis purus in dui dignissim rutrum. 
+Donec cursus tincidunt sapien, quis tristique urna auctor sit amet. 
+Nam elementum nec orci vitae sollicitudin.
